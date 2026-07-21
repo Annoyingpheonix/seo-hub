@@ -1,0 +1,6 @@
+{
+  "name": "SEO Insight",
+  "description": "Analyze website keywords and get content optimization suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
